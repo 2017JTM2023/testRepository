@@ -1,2 +1,2 @@
 # testRepository
-This repository has been made to test how github works
+This repository has been made to test how github works.
